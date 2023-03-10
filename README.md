@@ -81,3 +81,7 @@ to load the your_app application GUI on “Uiautomatorviewer”
 Upper panel contains node hierarchy the way the UI components are arranged and contained,
 clicking on each node gives properties of UI elements in the lower panel
 
+## Java 11
+Link- https://www.oracle.com/eg/java/technologies/javase/jdk11-archive-downloads.html
+
+ 
